@@ -60,19 +60,24 @@ ng serve
 ### 5. Tecnologías Utilizadas
 FrontendAngular 16, TypeScript, Tailwind CSSBackend JavaSpring Boot 3, Spring Data JPA, Hibernate, MavenBackend NodeExpress.js, MySQL, CORSBase de DatosMySQL. 0HerramientasPostman, MySQL Workbench, 
 
-### 6. Estructura del Repositorio 📁
+### 6. Notas: 
+1. Intercambiabilidad: Puedes alternar entre el backend de Java y Node sin necesidad de modificar el código del frontend (solo ajustando la URL del API).
+
+2. Pre-requisitos: Asegúrate de que el servicio de MySQL esté activo antes de iniciar cualquiera de los servidores.
+
+3. Puertos: Verifica que los puertos 3000, 8081 y 4200 estén libres para evitar conflictos de red.
+
+### 7. Estructura del Repositorio 📂
+
+```text
 /
 ├── frontend/        # Aplicación cliente Angular
 ├── CrudDemo/        # Backend Java/Spring Boot
 ├── backend-node/    # Backend Node.js/Express
 ├── crud.sql         # Script SQL de la Base de Datos
 └── README.md        # Documentación oficial
+` ``` `
 
-### 7. Notas: 
-1. Intercambiabilidad: Puedes alternar entre el backend de Java y Node sin necesidad de modificar el código del frontend (solo ajustando la URL del API).
 
-2. Pre-requisitos: Asegúrate de que el servicio de MySQL esté activo antes de iniciar cualquiera de los servidores.
-
-3. Puertos: Verifica que los puertos 3000, 8081 y 4200 estén libres para evitar conflictos de red.
 
 
