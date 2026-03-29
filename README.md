@@ -1,4 +1,4 @@
-#  Sistema de Administración de Expedientes (Full Stack)
+#  Sistema de Administración (Full Stack)
 
 Este sistema es una solución **Full Stack** integral diseñada para la administración eficiente de expedientes de alumnos. La característica distintiva de este proyecto es su **arquitectura de backend intercambiable**.
 
