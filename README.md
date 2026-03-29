@@ -37,7 +37,7 @@ Antes de iniciar los servidores, es necesario montar la estructura de datos:
 El servidor confirmará la conexión a MySQL en la consola.
 
 ### 3. Backend con Spring Boot (Puerto 8081)
-1. Abre la carpeta /CrudDemo en IntelliJ IDEA (o tu IDE preferido).
+1. Abre la carpeta /backend-spring en IntelliJ IDEA (o tu IDE preferido).
 
 2. Verifica que las credenciales de MySQL en src/main/resources/application.properties sean correctas.
 
