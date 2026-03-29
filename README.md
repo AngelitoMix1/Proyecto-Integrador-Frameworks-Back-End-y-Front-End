@@ -76,8 +76,3 @@ FrontendAngular 16, TypeScript, Tailwind CSSBackend JavaSpring Boot 3, Spring Da
 ├── backend-node/    # Backend Node.js/Express
 ├── crud.sql         # Script SQL de la Base de Datos
 └── README.md        # Documentación oficial
-` ``` `
-
-
-
-
